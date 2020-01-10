@@ -1,0 +1,14 @@
+*{
+    overflow: hidden;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+#game{
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    background-color: azure;
+}
