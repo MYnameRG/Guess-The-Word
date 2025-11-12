@@ -5,13 +5,17 @@ A fun letter-guessing game built with HTML5 Canvas and Vanilla JavaScript, where
 **🧑‍💻 Author**
 
 Developed by: **Rohit Gupta**
+
 Language: **JavaScript**
+
 Game Type: **Alphabet Guessing Game**
+
 Purpose: Learning and demonstration of **basic Canvas and event-handling concepts** in JavaScript.
 
 **🎮 Overview**
 
 This game picks a **random letter** (from a to z).
+
 Your goal is to **guess the correct letter** by pressing keys on your keyboard.
 
 After each guess, the game tells you if your guess is:
